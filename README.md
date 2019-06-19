@@ -1,6 +1,6 @@
 # stableDEX.io Token
 
-This is the official repository for stoxk.io token source code.
+This is the official repository for stableDEX.io token source code.
 
 Name: stableDEX
 
